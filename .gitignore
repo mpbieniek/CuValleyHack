@@ -5,6 +5,14 @@
 *.xls
 *.rds
 
+# docs
+
+*.pdf
+*.png
+*.jpg
+*.doc
+*.docx
+
 ## Python
 
 # Byte-compiled / optimized / DLL files
