@@ -1,9 +1,17 @@
 # Data files
-.csv
-.xlsx
-.txt
-.xls
-.rds
+*.csv
+*.xlsx
+*.txt
+*.xls
+*.rds
+
+# docs
+
+*.pdf
+*.png
+*.jpg
+*.doc
+*.docx
 
 ## Python
 
